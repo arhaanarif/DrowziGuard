@@ -1,0 +1,10 @@
+tensorflow==2.15.0
+opencv-python
+streamlit
+numpy
+matplotlib
+Pillow
+scikit-learn
+imutils
+pygame
+mediapipe
