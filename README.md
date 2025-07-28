@@ -60,13 +60,14 @@ streamlit==1.10
 ---
 ## Output
 ### UI
-![App Screenshot](assets/1.png)
-![App Screenshot](assets/2.png)
-![App Screenshot](assets/3.png)
+![App Screenshot](Assets/1.png)
+![App Screenshot](Assets/2.png)
+![App Screenshot](Assets/3.png)
 
 ### Alert System with sound
-![App Screenshot](assets/4.png)
-![App Screenshot](assets/5.png)
+![App Screenshot](Assets/4.png)
+![App Screenshot](Assets/5.png)
+
 ---
 
 ## Installation
